@@ -1,10 +1,13 @@
 # .catch
+
+[Click to view!](https://dot-catch.onrender.com/)
+
 In today's climate of increasing remote work, it is tough for software engineers to meet new people within their own company, let alone other people in the industry. This is where the idea for .catch came in.
 
 .catch is a dating application designed for software engineers to build meaningful relationships. Our platform makes it easy for software engineers to connect and start conversations with one another with prompts specifically designed around software engineering.
 
 ## Background
-.catch is a group project created by Katie Han, Jason Song, Brendan Tsuda, and Mitchell Jindra. In the four day timeline of the project, these engieneers were able to learn and implement previously unkonwn backend framework and database (Express.js and MongoDB), formulate and structure a project idea, and deploy a working product to production.
+.catch is a group project created by Katie Han, Jason Song, Brendan Tsuda, and Mitchell Jindra. In the four day timeline of the project, these engineers were able to learn and implement previously an unknown backend framework and database (Express.js and MongoDB), formulate and structure a project idea, and deploy a working product to production.
 
 ## Technologies, Libraries, and APIs
 - React.js
